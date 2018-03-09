@@ -42,13 +42,13 @@ Mank16 = threading.Thread(target=login, args=('Mank5','Eq0m6Sr4r0vzFRLz6qbc.VRE6
 
 Barbie17 = threading.Thread(target=login, args=('Barbie','EquZwYIbSwvvxgV3aXTf.4+o9Xy0dyNb9jW3Cq8xSpW.yEKKuXYRkwNNx6qfE34D19roWVGI/Rtw/X5BybXNrQg=')).start()
 
-Barbie18 = threading.Thread(target=login, args=('Barbie2','Eq1oE8KWyYYk3A8UDft6.NCJGEt0zRWMnpsUsWGXQbG.mNZz5RGLPRjrrdkcM4XUdWpucRiHg5tP/W2tdoMtPtU=')).start()
+Barbie18 = threading.Thread(target=login, args=('Barbie2','Eq8ebIjc5gErEb6Nx6M6.NCJGEt0zRWMnpsUsWGXQbG.3tIusWhmiFmFM2tPCDq4z4frdy7UWEInNvQiG+XYv4A=')).start()
 
-Barbie19 = threading.Thread(target=login, args=('Barbie3','Eq40iKd0fGA5Dm1pmna7.fMHomFnnHpVvFdM9gMVHbW.9dNs1kVKfky6FHQm94BwLG5qSD2YsF/U6D5cv4eBoHQ=')).start()
+Barbie19 = threading.Thread(target=login, args=('Barbie3','EqK9mcYng6MxC8GvJlJ7.fMHomFnnHpVvFdM9gMVHbW.HOZamYmh3sS8qeh5tsplIVhuFOGZBUGDwAOHAoLTO0M=')).start()
 
-Barbie20 = threading.Thread(target=login, args=('Barbie4','EqrZBMKbz3IeaxP3q5X8.AzBV7+1+U2OUJS58wbmB2a.aHAGpHnEjVonG63Ohk7/09/VYVaNZBIG09+okhrtbq8=')).start()
+Barbie20 = threading.Thread(target=login, args=('Barbie4','Eq56vr9pkcxazQooB6t8.AzBV7+1+U2OUJS58wbmB2a.FzBtaIeX+u3lk8pjWI5AIMcPHabIFeaG0zL5QDKAkbE=')).start()
 
-Barbie21 = threading.Thread(target=login, args=('Barbie5','EqEF4QvlghT9WbMXXHK3.Kki3sDy9y3yXRBZf0/NfKW.PIUU83F2bVz839c1R3gQ3vWYUlDJOwosRVq8RkIrw7c=')).start()
+Barbie21 = threading.Thread(target=login, args=('Barbie5','EqzfLzko0frUKg4eJEp3.Kki3sDy9y3yXRBZf0/NfKW.DEjBDdXtSfonqPbzP546zpygp3FVC8hGD+zimWgLBzE=')).start()
 
 
 print('Login Berhasil!')
