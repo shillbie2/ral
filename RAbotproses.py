@@ -3,7 +3,7 @@ from ThriftService.ttypes import *
 import time, asyncio, json, threading, codecs, sys, os, re, urllib, requests, wikipedia, html5lib, timeit, pafy, youtube_dl
 from bs4 import BeautifulSoup
 
-RASadmin = ["u5baffcc81a0a0689982216a005cfc70b","u188992a42a3621e2342db5a1b7e0847a"]
+RASadmin = ["u84e48a5112ea134eef91a0b5dabc86b6","u595b61f7e484cd4f5576b9ea4be6915b","u5baffcc81a0a0689982216a005cfc70b"]
 RAKey = "."
 
 mulai = time.time()
